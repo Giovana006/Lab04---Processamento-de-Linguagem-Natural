@@ -17,3 +17,14 @@ Este repositório tem como objetivo identificar os serviços de IA do Azure que 
 ![Static Badge](https://img.shields.io/badge/Azure_Language_Studio-orange)
 
 </div>
+
+### Descrição do Projeto
+
+Este projeto é um dos laboratórios do Bootcamp [Microsoft Azure AI Fundamentals](https://web.dio.me/track/microsoft-azure-ai-fundamentals), promovido através da parceria entre a Microsoft e a DIO.
+
+Os alunos deste bootcamp tem, como principal objetivo, se prepararem para o exame de certificação Microsoft AI-900, dominando conceitos como visão computacional, classificação inteligente de imagem e inteligência de documentos com IA, enquanto se familiarizam com as tecnologias da Microsoft Azure.
+
+Este desafio é o de número 4 do bootcamp e consiste na execução prática de 2 exercícios, relacionados aos seguintes temas:
+
+- [LAB 1: Azure Speech Studio](http://aka.ms/ai900-speech): experimentar os recursos do Azure AI Speech usando o Azure AI Speech Studio
+- [LAB 2: Azure Language Studio](http://aka.ms/ai900-text-analysis): explorar os recursos da Linguagem de IA do Azure
