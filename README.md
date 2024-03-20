@@ -1,12 +1,14 @@
 # AI-900: Análise de Sentimentos com Language Studio no Azure AI
 
-Este repositório tem como finalidade armazenar o projeto desenvolvido no âmbito do módulo "Natural Language Processing" do Bootcamp "Microsoft Azure AI Fundamentals" da DIO , sob orientação da professora Valéria Baptista .
+Este repositório tem como finalidade armazenar o projeto desenvolvido no âmbito do módulo "Natural Language Processing" do Bootcamp "Microsoft Azure AI Fundamentals" da [DIO](https://www.dio.me/users/giovananascimentoferreira1) , sob orientação da professora [Valéria Baptista](https://www.linkedin.com/in/valeriabaptista/) .
 
 O projeto é requisito essencial para a aprovação no módulo “Processamento de Linguagem Natural”, consolidando a aprendizagem prática dos participantes e preparando-os para os desafios subsequentes.
 
 O desenvolvimento deste projeto visa identificar serviços de IA do Azure que incluam processamento de linguagem natural, especificamente serviços de fala para texto e análise de sentimentos. Para um melhor entendimento, dividi todo o processo em etapas, desde a criação dos recursos até o resultado final da conversão e análise de sentimento.
 
 <div align="center">
+
+### Tags do Projeto :
 
 ![Static Badge](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
 ![Static Badge](https://img.shields.io/badge/IA_Generativa-blue)
