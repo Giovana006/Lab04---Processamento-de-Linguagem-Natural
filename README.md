@@ -10,7 +10,7 @@ Este projeto é um dos laboratórios do Bootcamp [Microsoft Azure AI Fundamental
 
 Este repositório tem como finalidade armazenar o projeto desenvolvido no âmbito do módulo "Natural Language Processing" do Bootcamp da [DIO](https://www.dio.me/users/giovananascimentoferreira1) , sob orientação da professora [Valéria Baptista](https://www.linkedin.com/in/valeriabaptista/) .
 
-Os alunos deste bootcamp tem, como principal objetivo, se prepararem para o exame de certificação Microsoft AI-900, dominando conceitos como visão computacional, classificação inteligente de imagem e inteligência de documentos com IA, enquanto se familiarizam com as tecnologias da **Microsoft Azure** .
+Os alunos deste bootcamp tem, como principal objetivo, se prepararem para o exame de certificação Microsoft AI-900, dominando conceitos como visão computacional, classificação de inteligência de imagem e inteligência de documentos com IA, enquanto se familiarizam com as tecnologias da **Microsoft Azure** .
 
 O projeto é requisito essencial para a aprovação no módulo “Processamento de Linguagem Natural”, consolidando a aprendizagem prática dos participantes e preparando-os para os desafios subsequentes.
 
@@ -40,3 +40,10 @@ Este desafio é o de número 4 do bootcamp e consiste na execução prática de 
 
 </div>
 
+### **Acessos Necessários :**
+
+Para realizar estes laboratórios, eu precisei criar uma Subscrição do Microsoft Azure . 
+
+No meu caso criei a Conta de Estudante da Microsoft .
+
+A Microsoft permite criar uma subscrição de teste, na qual vários serviços podem ser experimentados gratuitamente por 12 meses, além de receber $200 para serem utilizados durante o ano.
