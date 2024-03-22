@@ -40,10 +40,30 @@ Este desafio é o de número 4 do bootcamp e consiste na execução prática de 
 
 </div>
 
+<div align="center">
+
 ### **Acessos Necessários :**
 
-Para realizar estes laboratórios, eu precisei criar uma Subscrição do Microsoft Azure . 
+</div>
 
-No meu caso criei a Conta de Estudante da Microsoft .
+Para realizar estes laboratórios, eu precisei criar uma **Subscrição** do **Microsoft Azure** . 
 
-A Microsoft permite criar uma subscrição de teste, na qual vários serviços podem ser experimentados gratuitamente por 12 meses, além de receber $200 para serem utilizados durante o ano.
+No meu caso criei a [**Conta de Estudante da Microsoft**](https://azure.microsoft.com/pt-br/free/students) .
+
+A Microsoft permite criar uma subscrição de teste, na qual vários serviços podem ser experimentados gratuitamente por 12 meses, além de receber $100 para serem utilizados durante o ano.
+
+### **LAB1 - Estúdio de Fala :**
+
+- **Introdução :**
+
+A transcrição da fala em texto e a conversão de texto em fala audível por meio da IA são processos-chave na comunicação entre humanos e máquinas. 
+
+Podemos utilizar o **AI Speech** para criar um aplicativo que possa transcrever anotações de reuniões ou gerar texto a partir da gravação de entrevistas.
+
+Neste laboratório, abordarei, especificamente, os recursos do **Azure AI Speech** dentro do **Azure AI Speech Studio** para realizar a criação de legenda automática de um vídeo.
+
+Para ocorrer a transcrição da fala em texto o **Azure AI Speech Studio** usa algoritmos de reconhecimento de voz para converter palavras faladas em texto escrito, enquanto a conversão de texto em fala utiliza sistemas de síntese de voz para transformar texto em uma saída audível.
+
+Ambos os processos têm uma variedade de aplicações, desde assistentes virtuais até acessibilidade para pessoas com deficiência. Apesar de desafios como precisão em ambientes ruidosos e naturalidade na fala sintetizada, o desenvolvimento contínuo impulsiona uma interação mais intuitiva e inclusiva entre humanos e sistemas baseados em IA.
+
+Sabendo disso, podemos através da função de **Conversão de fala em texto em tempo real**, o qual é um serviço Speech, que transcreve e exibe o texto em tempo real. Como também, caso você tenha áudio em seu computador, poderá ouvir a gravação enquanto o texto é transcrito.
