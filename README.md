@@ -76,9 +76,11 @@ No portal [**Speech Studio**](https://speech.microsoft.com/portal) , criaremos u
 
 Siga de acordo com os Passos a seguir:
 
-![Passo-a-Passo para Criar Recurso no Speech Studio](<Passo-a-Passo para Criar Recurso no Speech Studio.gif>)
+<div align="center">
+ 
+<img src="Assets/Passo-a-Passo para Criar Recurso no Speech Studio.gif"/>
 
-
+</div>
 
 
 - **Explorando a conversão de Voz em Texto em Tempo Real no Speech Studio :**
