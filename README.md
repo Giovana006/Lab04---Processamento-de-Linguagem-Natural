@@ -74,9 +74,9 @@ Vamos começar acessando o seguinte **portal da Microsoft :** https://speech.mic
 
 No portal [**Speech Studio**](https://speech.microsoft.com/portal) , criaremos um novo recurso.
 
-De acordo com os Passo-a-Passos a seguir:
+Siga de acordo com os Passos a seguir:
 
-
+![Passo-a-Passo para Criar Recurso no Speech Studio](<Passo-a-Passo para Criar Recurso no Speech Studio.gif>)
 
 
 
