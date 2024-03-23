@@ -60,10 +60,25 @@ A transcrição da fala em texto e a conversão de texto em fala audível por me
 
 Podemos utilizar o **AI Speech** para criar um aplicativo que possa transcrever anotações de reuniões ou gerar texto a partir da gravação de entrevistas.
 
-Neste laboratório, abordarei, especificamente, os recursos do **Azure AI Speech** dentro do **Azure AI Speech Studio** para realizar a criação de legenda automática de um vídeo.
+Neste laboratório, abordarei, especificamente, os recursos do **Azure AI Speech** dentro do **Azure AI Speech Studio** para realizar a criação de legenda automática de um aúdio.
 
 Para ocorrer a transcrição da fala em texto o **Azure AI Speech Studio** usa algoritmos de reconhecimento de voz para converter palavras faladas em texto escrito, enquanto a conversão de texto em fala utiliza sistemas de síntese de voz para transformar texto em uma saída audível.
 
 Ambos os processos têm uma variedade de aplicações, desde assistentes virtuais até acessibilidade para pessoas com deficiência. Apesar de desafios como precisão em ambientes ruidosos e naturalidade na fala sintetizada, o desenvolvimento contínuo impulsiona uma interação mais intuitiva e inclusiva entre humanos e sistemas baseados em IA.
 
-Sabendo disso, podemos através da função de **Conversão de fala em texto em tempo real**, o qual é um serviço Speech, que transcreve e exibe o texto em tempo real. Como também, caso você tenha áudio em seu computador, poderá ouvir a gravação enquanto o texto é transcrito.
+Sabendo disso, podemos através da função de **Conversão de voz em texto em tempo real**, o qual é um serviço Speech, que transcreve e exibe o texto em tempo real. Como também, caso você tenha áudio em seu computador, poderá ouvir a gravação enquanto o texto é transcrito.
+
+#### **Etapa 1: Criando um recurso para conversão de fala/voz em texto**
+
+Vamos começar acessando o seguinte **portal da Microsoft :** https://speech.microsoft.com/portal .
+
+No portal [**Speech Studio**](https://speech.microsoft.com/portal) , criaremos um novo recurso.
+
+De acordo com os Passo-a-Passos a seguir:
+
+
+
+
+
+
+- **Explorando a conversão de Voz em Texto em Tempo Real no Speech Studio :**
