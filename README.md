@@ -82,5 +82,22 @@ Siga de acordo com os Passos a seguir:
 
 </div>
 
+Agora tem ***duas maneiras*** de definir o recurso como Padrão :
+
+A **Primeira Maneira** é indo nas Configurações, Marcando o Recurso desejado e Apertando no Botão Azul como demontrado na foto a seguir (no meu caso como já defini o recurso na 2° Maneira o botão aparece cinza):
+
+<div align="center">
+
+<img src="Assets/1° Maneira - Definir Recurso como Padrão.png">
+
+</div>
+
+A **Segunda Maneira** é (caso aparecesse a tela) Apertando no Botão Azul no caso superior direito como demonstrado na imagem a seguir.
+
+<div align="center">
+
+<img src="Assets/2° Maneira - Definir Recurso como Padrão.png">
+
+</div>
 
 - **Explorando a conversão de Voz em Texto em Tempo Real no Speech Studio :**
