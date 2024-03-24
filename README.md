@@ -111,7 +111,9 @@ A **Segunda Maneira** é (caso aparecesse a tela) Apertando no Botão Azul no ca
 
 **Aúdio Utilizado no Vídeo:** 
 
-<audio controls src="Assets/Aúdio - TESTE.mp3" title="Title"></audio>
+<audio controls>
+
+<source src="Assets/Aúdio - TESTE.mp3" title="Title"></audio>
 
 </div>
 
