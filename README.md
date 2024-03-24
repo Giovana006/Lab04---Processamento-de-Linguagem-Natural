@@ -107,11 +107,8 @@ A **Segunda Maneira** é (caso aparecesse a tela) Apertando no Botão Azul no ca
 
 <u>**Observação:**</u> Quando mudei o Vídeo (MP4) para GIF (GIF) ele ficou sem som.
 
-<div align="center">
 
-**Aúdio Utilizado no Vídeo:** 
+**Aúdio Utilizado no Vídeo:** [Aúdio - Teste.mp3](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Assets/A%C3%BAdio%20-%20TESTE.mp3)
 
-[Aúdio - Teste.mp3](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Assets/A%C3%BAdio%20-%20TESTE.mp3)
 
-</div>
 
