@@ -54,7 +54,7 @@ A Microsoft permite criar uma subscrição de teste, na qual vários serviços p
 
 ### **LAB1 - Estúdio de Fala :**
 
-- **Introdução :**
+#### **Introdução :**
 
 A transcrição da fala em texto e a conversão de texto em fala audível por meio da IA são processos-chave na comunicação entre humanos e máquinas. 
 
@@ -111,4 +111,17 @@ A **Segunda Maneira** é (caso aparecesse a tela) Apertando no Botão Azul no ca
 **Aúdio Utilizado no Vídeo:** [Aúdio - Teste.mp3](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Assets/A%C3%BAdio%20-%20TESTE.mp3)
 
 
+#### **Etapa 4: Próximas Etapas**
+
+Podemos usar o serviço de fala em texto em tempo real para integrá-lo com diferentes linguagens de programação para criar aplicativos personalizados que utilizem esse recurso.
+
+#### **Conclusão :**
+
+Neste estudo, explorei o serviço **Azure Speech Studio** , com foco especial na sua capacidade de legendar através da conversão de fala em texto. Esta funcionalidade é uma ferramenta poderosa que pode ser aplicada em diversas situações, desde a transcrição de reuniões e conferências até a criação de legendas para vídeos.
+
+No entanto, é importante lembrar que o **Azure Speech Studio** é muito mais do que apenas um serviço de transcrição. Ele oferece uma gama de outras funcionalidades que não foram abordadas em detalhe neste estudo, mas que são igualmente valiosas. Estas incluem a conversão de texto em fala, a tradução de fala e a personalização do modelo de fala, entre outras.
+
+A versatilidade do **Azure Speech Studio** torna-o uma ferramenta indispensável para qualquer pessoa ou organização que procure melhorar a acessibilidade, a eficiência e a comunicação. Encorajos os leitores a explorarem estas outras funcionalidades para descobrir como elas podem ser aplicadas para atender às suas necessidades específicas.
+
+Em resumo, o **Azure Speech Studio** é uma ferramenta robusta e multifuncional que tem o potencial de transformar a maneira como interagimos com a tecnologia e uns com os outros. Através da exploração contínua e da experimentação com suas diversas funcionalidades, podemos continuar a inovar e a melhorar nossas práticas de comunicação.
 
