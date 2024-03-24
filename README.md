@@ -52,9 +52,13 @@ No meu caso criei a [**Conta de Estudante da Microsoft**](https://azure.microsof
 
 A Microsoft permite criar uma subscrição de teste, na qual vários serviços podem ser experimentados gratuitamente por 12 meses, além de receber $100 para serem utilizados durante o ano.
 
+<div align="center">
+
 ### **LAB1 - Estúdio de Fala :**
 
 #### **Introdução :**
+
+</div>
 
 A transcrição da fala em texto e a conversão de texto em fala audível por meio da IA são processos-chave na comunicação entre humanos e máquinas. 
 
@@ -103,6 +107,10 @@ A **Segunda Maneira** é (caso aparecesse a tela) Apertando no Botão Azul no ca
 
 #### **Etapa 2: Explorando a conversão de Voz em Texto em Tempo Real no Speech Studio**
 
+Na categoria Fala para texto, selecionaremos Fala para texto em tempo real.
+
+Como demonnstrado no Passo-a-Passo a seguir:
+
 <img src="Assets/Passo-a-Passo - Converter Aúdio em Texto.gif">
 
 <u>**Observação:**</u> Quando mudei o Vídeo (MP4) para GIF (GIF) ele ficou sem som.
@@ -115,7 +123,11 @@ A **Segunda Maneira** é (caso aparecesse a tela) Apertando no Botão Azul no ca
 
 Podemos usar o serviço de fala em texto em tempo real para integrá-lo com diferentes linguagens de programação para criar aplicativos personalizados que utilizem esse recurso.
 
+<div align="center">
+
 #### **Conclusão :**
+
+</div>
 
 Neste estudo, explorei o serviço **Azure Speech Studio** , com foco especial na sua capacidade de legendar através da conversão de fala em texto. Esta funcionalidade é uma ferramenta poderosa que pode ser aplicada em diversas situações, desde a transcrição de reuniões e conferências até a criação de legendas para vídeos.
 
@@ -124,4 +136,30 @@ No entanto, é importante lembrar que o **Azure Speech Studio** é muito mais do
 A versatilidade do **Azure Speech Studio** torna-o uma ferramenta indispensável para qualquer pessoa ou organização que procure melhorar a acessibilidade, a eficiência e a comunicação. Encorajos os leitores a explorarem estas outras funcionalidades para descobrir como elas podem ser aplicadas para atender às suas necessidades específicas.
 
 Em resumo, o **Azure Speech Studio** é uma ferramenta robusta e multifuncional que tem o potencial de transformar a maneira como interagimos com a tecnologia e uns com os outros. Através da exploração contínua e da experimentação com suas diversas funcionalidades, podemos continuar a inovar e a melhorar nossas práticas de comunicação.
+
+<div align="center">
+
+### **LAB2 - Análise de sentimentos :**
+
+</div>
+
+#### **Etapa 1: Criando um recurso para análise de sentimento**
+
+Primeiro, vamos acessar o portal do [Microsoft Azure](https://portal.azure.com/#home) .
+
+Agora vamos criar um recurso e configurá-lo para depois utilizá-lo no **Language Studio** .
+
+Siga de acordo com os Passos a seguir:
+
+<img src="Assets/Passo-a-Passo para Criar Recurso no Azure.gif">
+
+#### **Etapa 2: Selecione um Recurso do Azure**
+
+Após completar esta etapa de criação, vamos para o portal [Language Cognitive](https://language.cognitive.azure.com/home) .
+
+Para acessar o Language Studio precisamos vinculá-lo a um recurso do Azure.
+
+Siga de acordo com os Passos a seguir:
+
+<img src="Assets/Language Studio - Vincular Recurso do Azure.gif">
 
