@@ -163,3 +163,8 @@ Siga de acordo com os Passos a seguir:
 
 <img src="Assets/Language Studio - Vincular Recurso do Azure.gif">
 
+#### **Etapa 3: Analisar Sentimento e Extrair Opiniões**
+
+Para realizar a análise de sentimento no Azure, podemos selecionar "Analyze Sentiment and Opinions".
+
+Depois é só selecionar a língua do texto digitar o texto desejado ou inserir o arquivo, marcar o quadradinho embaixo e apertar no botão RUN e Voilà pronto, temos a análise de sentimentos e opiniões!
