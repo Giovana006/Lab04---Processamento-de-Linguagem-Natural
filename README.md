@@ -111,9 +111,7 @@ A **Segunda Maneira** é (caso aparecesse a tela) Apertando no Botão Azul no ca
 
 **Aúdio Utilizado no Vídeo:** 
 
-<audio controls>
-
-<source src="Assets/Aúdio - TESTE.mp3" title="Title"></audio>
+[Aúdio - Teste.mp3](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Assets/A%C3%BAdio%20-%20TESTE.mp3)
 
 </div>
 
