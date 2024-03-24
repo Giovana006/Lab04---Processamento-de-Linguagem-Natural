@@ -100,4 +100,12 @@ A **Segunda Maneira** é (caso aparecesse a tela) Apertando no Botão Azul no ca
 
 </div>
 
-- **Explorando a conversão de Voz em Texto em Tempo Real no Speech Studio :**
+
+#### **Etapa 2: Explorando a conversão de Voz em Texto em Tempo Real no Speech Studio**
+
+<img src="Assets/Passo-a-Passo - Converter Aúdio em Texto.gif">
+
+<u>**Observação:**</u> Quando mudei o Vídeo (MP4) para GIF (GIF) ele ficou sem som.
+
+Aúdio Utilizado no Vídeo: <img src="Assets/Aúdio - TESTE.mp3">
+
