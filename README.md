@@ -145,7 +145,17 @@ Em resumo, o **Azure Speech Studio** é uma ferramenta robusta e multifuncional 
 
 ### **LAB2 - Análise de Sentimentos :**
 
+#### **Introdução :**
+
 </div>
+
+O Processamento de Linguagem Natural (PNL) é um ramo da IA que lida com a linguagem escrita e falada. Você pode usar a PNL para criar soluções que extraem significado semântico do texto e/ou da fala ou que formulem respostas significativas em linguagem natural.
+
+O PNL pode ser utilizado, por exemplo, para realizar a análise de avaliações enviadas pelos clientes de um determinado serviço prestado, onde é possível identificar frases-chave, determinar quais avaliações são positivas e quais são negativas ou analisar o texto de revisão em busca de menções a entidades conhecidas, como locais ou pessoas.
+
+O Serviço de Linguagem de IA do Azure inclui análise de texto e recursos de PNL. Estes incluem a identificação de frases-chave no texto e a classificação do texto com base no sentimento.
+
+Neste laboratório, eu explorei os recursos da Linguagem de IA do Azure analisando alguns exemplos de avaliações de hotéis, utilizando Azure Language Studio para entender se as avaliações são majoritariamente positivas ou negativas.
 
 #### **Etapa 1: Criando um recurso para análise de sentimento**
 
@@ -229,3 +239,25 @@ Em nosso texto, percebemos a satisfação do cliente ao curso do DIO (no caso gr
 
 </div>
 
+#### **Etapa 5: Próximas Etapas**
+
+Podemos utilizar o serviço "Analisar sentimentos e extrair opiniões" para integrá-lo com diferentes linguagens de programação para criar aplicações personalizadas que utilizem este recurso.
+
+<div align="center">
+
+#### **Conclusão :**
+
+</div>
+
+Neste estudo, explorei o poder do Azure Language Studio, com foco especial na análise de sentimentos e na mineração de opiniões. Essas ferramentas oferecem uma visão profunda dos dados textuais, permitindo que as empresas entendam melhor seus clientes e tomem decisões informadas.
+
+No entanto, é importante lembrar que o Azure Language Studio oferece muito mais do que apenas essas funções. Existem outras capacidades poderosas, como a extração de frases-chave, a detecção de idioma e a identificação de entidades nomeadas, que não foram abordadas em detalhes neste artigo.
+
+O Azure Language Studio é uma ferramenta versátil e robusta que pode ser adaptada a uma variedade de cenários de uso. Seja você um cientista de dados procurando entender grandes volumes de texto ou uma empresa procurando obter insights de dados de clientes, o Azure Language Studio tem algo a oferecer.
+
+Com suas diversas funcionalidades, o Azure Language Studio ele abre um mundo de possibilidades para análise de dados e inteligência de negócios.
+
+### Limpando o ambiente
+
+> [!WARNING]
+> Após a conclusão do projeto, se não for reaproveitar os recursos utilizados, é aconselhável excluí-los, bem como os grupos de recursos, para que não haja cobranças indevidas na sua Azure Subscription
