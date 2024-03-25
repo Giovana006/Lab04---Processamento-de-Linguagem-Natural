@@ -111,7 +111,11 @@ Na categoria Fala para texto, selecionaremos Fala para texto em tempo real.
 
 Como demonnstrado no Passo-a-Passo a seguir:
 
+<div align="center">
+
 <img src="Assets/Passo-a-Passo - Converter Aúdio em Texto.gif">
+
+</div>
 
 <u>**Observação:**</u> Quando mudei o Vídeo (MP4) para GIF (GIF) ele ficou sem som.
 
@@ -139,7 +143,7 @@ Em resumo, o **Azure Speech Studio** é uma ferramenta robusta e multifuncional 
 
 <div align="center">
 
-### **LAB2 - Análise de sentimentos :**
+### **LAB2 - Análise de Sentimentos :**
 
 </div>
 
@@ -151,7 +155,11 @@ Agora vamos criar um recurso e configurá-lo para depois utilizá-lo no **Langua
 
 Siga de acordo com os Passos a seguir:
 
+<div align="center">
+
 <img src="Assets/Passo-a-Passo para Criar Recurso no Azure.gif">
+
+</div>
 
 #### **Etapa 2: Selecione um Recurso do Azure**
 
@@ -161,7 +169,11 @@ Para acessar o Language Studio precisamos vinculá-lo a um recurso do Azure.
 
 Siga de acordo com os Passos a seguir:
 
+<div align="center">
+
 <img src="Assets/Language Studio - Vincular Recurso do Azure.gif">
+
+</div>
 
 #### **Etapa 3: Analisar Sentimento e Extrair Opiniões**
 
@@ -173,13 +185,21 @@ Depois é só selecionar a língua do texto digitar o texto desejado ou inserir 
 
 Siga de acordo com os Passos do vídeo a seguir:
 
+<div align="center">
+
 <img src="Assets/Language Studio - Análise de Sentimentos e Opiniões.gif">
 
+</div>
+
 #### **Etapa 4: examinar os resultados**
+
+<div align="center">
 
 **Análise de Sentimento Geral :**
 
 <img src="Análise Sent. e Opi. - Análise de Sentimento Geral.png">
+
+</div>
 
 Analisando os resultados percebemos que a análise de sentimento é classificada em três variáveis: positiva, neutra e negativa. 
 
@@ -191,8 +211,21 @@ Analisando os resultados percebemos que a análise de sentimento é classificada
 
 Em nosso texto, percebemos a satisfação do cliente ao curso do DIO (no caso gratuito), e isso levará nossa análise de sentimento a um percentual maior em Positivo.
 
+<div align="center">
+
 **Análise por Frases:**
 
 **Frase 1 :**
 
 <img src="Análise Sent. e Opi. - Frase 1.png">
+
+**Frase 2 :**
+
+<img src="Análise Sent. e Opi. - Frase 2.png">
+
+**Texto Original :**
+
+<img src="Análise Sent. e Opi. - Texto Original (TAG&apos;S).png">
+
+</div>
+
