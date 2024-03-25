@@ -122,6 +122,8 @@ Como demonnstrado no Passo-a-Passo a seguir:
 
 **Aúdio Utilizado no Vídeo:** [Aúdio - Teste.mp3](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Assets/A%C3%BAdio%20-%20TESTE.mp3)
 
+**Arquivo JSON :** []()
+
 
 #### **Etapa 4: Próximas Etapas**
 

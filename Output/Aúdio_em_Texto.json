@@ -1,0 +1,332 @@
+[
+    {
+        "Id": "c6a97d449f2042e899b384a7c90503b2",
+        "RecognitionStatus": 0,
+        "Offset": 2300000,
+        "Duration": 41200000,
+        "Channel": 0,
+        "DisplayText": "Vamos na jornada para buscar a certificação da prova da Microsoft?",
+        "NBest": [
+            {
+                "Confidence": 0.95584106,
+                "Lexical": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "ITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "MaskedITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "Display": "Vamos na jornada para buscar a certificação da prova da Microsoft?",
+                "Words": [
+                    {
+                        "Word": "vamos",
+                        "Offset": 2300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 5500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 6700000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 14700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "buscar",
+                        "Offset": 16700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "certificação",
+                        "Offset": 21900000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 30300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "prova",
+                        "Offset": 31900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 35500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "microsoft",
+                        "Offset": 36700000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.95584106,
+                "Lexical": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "ITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "MaskedITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "Display": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "Words": [
+                    {
+                        "Word": "vamos",
+                        "Offset": 2300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 5500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 6700000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 14700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "buscar",
+                        "Offset": 16700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "certificação",
+                        "Offset": 21900000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 30300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "prova",
+                        "Offset": 31900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 35500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "microsoft",
+                        "Offset": 36700000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.95584106,
+                "Lexical": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "ITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "MaskedITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "Display": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "Words": [
+                    {
+                        "Word": "vamos",
+                        "Offset": 2300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 5500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 6700000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 14700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "buscar",
+                        "Offset": 16700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "certificação",
+                        "Offset": 21900000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 30300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "prova",
+                        "Offset": 31900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 35500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "microsoft",
+                        "Offset": 36700000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.95584106,
+                "Lexical": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "ITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "MaskedITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "Display": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "Words": [
+                    {
+                        "Word": "vamos",
+                        "Offset": 2300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 5500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 6700000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 14700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "buscar",
+                        "Offset": 16700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "certificação",
+                        "Offset": 21900000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 30300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "prova",
+                        "Offset": 31900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 35500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "microsoft",
+                        "Offset": 36700000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.95584106,
+                "Lexical": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "ITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "MaskedITN": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "Display": "vamos na jornada para buscar a certificação da prova da microsoft",
+                "Words": [
+                    {
+                        "Word": "vamos",
+                        "Offset": 2300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 5500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jornada",
+                        "Offset": 6700000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 14700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "buscar",
+                        "Offset": 16700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "certificação",
+                        "Offset": 21900000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 30300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "prova",
+                        "Offset": 31900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 35500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "microsoft",
+                        "Offset": 36700000,
+                        "Duration": 8400000
+                    }
+                ]
+            }
+        ]
+    }
+]
