@@ -257,7 +257,11 @@ O Azure Language Studio é uma ferramenta versátil e robusta que pode ser adapt
 
 Com suas diversas funcionalidades, o Azure Language Studio ele abre um mundo de possibilidades para análise de dados e inteligência de negócios.
 
+<div align="center">
+
 ### Limpando o ambiente
+
+</div>
 
 > [!WARNING]
 > Após a conclusão do projeto, se não for reaproveitar os recursos utilizados, é aconselhável excluí-los, bem como os grupos de recursos, para que não haja cobranças indevidas na sua Azure Subscription
