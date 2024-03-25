@@ -155,7 +155,7 @@ Siga de acordo com os Passos a seguir:
 
 #### **Etapa 2: Selecione um Recurso do Azure**
 
-Após completar esta etapa de criação, vamos para o portal [Language Cognitive](https://language.cognitive.azure.com/home) .
+Após completar esta etapa de criação, vamos para o portal [Language Studio](https://language.cognitive.azure.com/home) .
 
 Para acessar o Language Studio precisamos vinculá-lo a um recurso do Azure.
 
@@ -165,6 +165,34 @@ Siga de acordo com os Passos a seguir:
 
 #### **Etapa 3: Analisar Sentimento e Extrair Opiniões**
 
-Para realizar a análise de sentimento no Azure, podemos selecionar "Analyze Sentiment and Opinions".
+Depois de víncular o recurso do Azure no **Language Studio**, vamos realizar a análise de sentimentos e opiniões.
+
+Para realizar a análise de sentimento no **Language Studio** , podemos selecionar **"Analyze Sentiment and Opinions"** .
 
 Depois é só selecionar a língua do texto digitar o texto desejado ou inserir o arquivo, marcar o quadradinho embaixo e apertar no botão RUN e Voilà pronto, temos a análise de sentimentos e opiniões!
+
+Siga de acordo com os Passos do vídeo a seguir:
+
+<img src="Assets/Language Studio - Análise de Sentimentos e Opiniões.gif">
+
+#### **Etapa 4: examinar os resultados**
+
+**Análise de Sentimento Geral :**
+
+<img src="Análise Sent. e Opi. - Análise de Sentimento Geral.png">
+
+Analisando os resultados percebemos que a análise de sentimento é classificada em três variáveis: positiva, neutra e negativa. 
+
+- **Positivo** denota sentimentos positivos como “feliz”, “ótimo”, “adorável”, entre outros. 
+
+- **Neutro** refere-se a declarações neutras e objetivas que não expressam uma opinião emocional forte. 
+
+- **Negativo** denota a presença de palavras com sentimentos negativos, como “triste”, “ruim”, “frustrante”, entre outros.
+
+Em nosso texto, percebemos a satisfação do cliente ao curso do DIO (no caso gratuito), e isso levará nossa análise de sentimento a um percentual maior em Positivo.
+
+**Análise por Frases:**
+
+**Frase 1 :**
+
+<img src="Análise Sent. e Opi. - Frase 1.png">
