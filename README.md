@@ -122,7 +122,7 @@ Como demonnstrado no Passo-a-Passo a seguir:
 
 **Aúdio Utilizado no Vídeo:** [Aúdio - Teste.mp3](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Assets/A%C3%BAdio%20-%20TESTE.mp3)
 
-**Arquivo JSON :** [Aúdio_em_Testo.json]()
+**Arquivo JSON :** [Aúdio_em_Testo.json](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Output/Sa%C3%ADda%20-%20LAB1%20-%20Est%C3%BAdio%20de%20Fala/A%C3%BAdio_em_Testo.json)
 
 
 #### **Etapa 4: Próximas Etapas**
@@ -203,9 +203,9 @@ Siga de acordo com os Passos do vídeo a seguir:
 
 </div>
 
-**Arquivo de Texto utilizado no Vídeo:** []()
+**Arquivo de Texto utilizado no Vídeo:** [Emocoes_do_Texto.txt](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Inputs/LAB2%20-%20An%C3%A1lise%20de%20Sentimentos/Emocoes_do_Texto.txt)
 
-**Arquivo JSON :** []()
+**Arquivo JSON :** [Emocoes_do_Texto.json](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Output/Sa%C3%ADda%20-%20LAB2%20-%20An%C3%A1lise%20de%20Sentimentos/Emocoes_do_Texto.json)
 
 #### **Etapa 4: examinar os resultados**
 
