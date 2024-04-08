@@ -122,7 +122,7 @@ Como demonnstrado no Passo-a-Passo a seguir:
 
 **Aúdio Utilizado no Vídeo:** [Aúdio - Teste.mp3](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Assets/A%C3%BAdio%20-%20TESTE.mp3)
 
-**Arquivo JSON :** []()
+**Arquivo JSON :** [Aúdio_em_Testo.json](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Output/A%C3%BAdio_em_Texto.json)
 
 
 #### **Etapa 4: Próximas Etapas**
@@ -202,6 +202,10 @@ Siga de acordo com os Passos do vídeo a seguir:
 <img src="Assets/Language Studio - Análise de Sentimentos e Opiniões.gif">
 
 </div>
+
+**Arquivo de Texto utilizado no Vídeo:** []()
+
+**Arquivo JSON :** []()
 
 #### **Etapa 4: examinar os resultados**
 
