@@ -213,7 +213,7 @@ Siga de acordo com os Passos do vídeo a seguir:
 
 **Análise de Sentimento Geral :**
 
-<img src="Análise Sent. e Opi. - Análise de Sentimento Geral.png">
+<img src="Output/Saída - LAB2 - Análise de Sentimentos/Análise Sent. e Opi. - Análise de Sentimento Geral.png">
 
 </div>
 
@@ -233,15 +233,15 @@ Em nosso texto, percebemos a satisfação do cliente ao curso do DIO (no caso gr
 
 **Frase 1 :**
 
-<img src="Análise Sent. e Opi. - Frase 1.png">
+<img src="Output/Saída - LAB2 - Análise de Sentimentos/Análise Sent. e Opi. - Frase 1.png">
 
 **Frase 2 :**
 
-<img src="Análise Sent. e Opi. - Frase 2.png">
+<img src="Output/Saída - LAB2 - Análise de Sentimentos/Análise Sent. e Opi. - Frase 2.png">
 
 **Texto Original :**
 
-<img src="Análise Sent. e Opi. - Texto Original (TAG&apos;S).png">
+<img src="Output/Saída - LAB2 - Análise de Sentimentos/Análise Sent. e Opi. - Texto Original (TAG&apos;S).png">
 
 </div>
 
