@@ -120,7 +120,7 @@ Como demonnstrado no Passo-a-Passo a seguir:
 <u>**Observação:**</u> Quando mudei o Vídeo (MP4) para GIF (GIF) ele ficou sem som.
 
 
-**Aúdio Utilizado no Vídeo:** [Aúdio - Teste.mp3](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Assets/A%C3%BAdio%20-%20TESTE.mp3)
+**Aúdio Utilizado no Vídeo:** [Aúdio - Teste.mp3](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Inputs/LAB1%20-%20Est%C3%BAdio%20de%20Fala/A%C3%BAdio%20-%20TESTE.mp3)
 
 **Arquivo JSON :** [Aúdio_em_Testo.json](https://github.com/Giovana006/Lab04---Processamento-de-Linguagem-Natural/blob/main/Output/Sa%C3%ADda%20-%20LAB1%20-%20Est%C3%BAdio%20de%20Fala/A%C3%BAdio_em_Testo.json)
 
